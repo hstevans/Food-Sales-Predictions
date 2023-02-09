@@ -1,5 +1,5 @@
 # Food Sales Predictions
-## An analysis of how certain product & outlet properties affect the sales of different food items.
+## An analysis of how certain product & outlet properties affect the sales of different food items
 
 Hollyann Stevans: 
 
@@ -52,4 +52,4 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact hstevans@gmail.co?m
