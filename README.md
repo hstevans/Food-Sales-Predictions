@@ -11,7 +11,7 @@ This analysis focuses on sales predictions for food items sold at various stores
 ### Data:
 
 Orginal Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
-
+![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Food%20Sales%20Predictions%20Data%20Dictionary.png)
 
 ## Methods
 - Data cleaning to prepare the data for accurate analysis
