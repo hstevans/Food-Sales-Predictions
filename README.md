@@ -1,21 +1,23 @@
 # Food Sales Predictions
-## An analysis of how certain product & outlet properties affect the sales of different food items. This analysis focuses on sales predictions for food items sold at various stores. The goal is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
-
+## An analysis of how certain product & outlet properties affect the sales of different food items.
 
 Hollyann Stevans: 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+This analysis focuses on sales predictions for food items sold at various stores. The goal is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+
+Orginal Source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- Data cleaning to prepare the data for accurate analysis
+- Creation of exploratory & explanatory visualizations to explore and explain the data analysis in a clear manner 
+- Preprocessing to prepare the data for analysis through machine learning
+- Machine Learning - training models through the creation of a linear regression model and decision tree regressor model to further explore and explain the data anaylsis
 
 ## Results
 
