@@ -1,7 +1,8 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Food Sales Predictions
+## An analysis of how certain product & outlet properties affect the sales of different food items. This analysis focuses on sales predictions for food items sold at various stores. The goal is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
-**Author**: 
+
+Hollyann Stevans: 
 
 ### Business problem:
 
