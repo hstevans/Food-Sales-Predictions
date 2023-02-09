@@ -17,10 +17,10 @@ Orginal Source: https://datahack.analyticsvidhya.com/contest/practice-problem-bi
 Source: Coding Dojo Part Time Data Science Program
 
 ## Methods
-- Data cleaning to prepare the data for accurate analysis
-- Creation of exploratory & explanatory visualizations to explore and explain the data analysis in a clear manner 
-- Preprocessing to prepare the data for analysis through machine learning
-- Machine Learning - training models through the creation of a linear regression model and decision tree regressor model to further explore and explain the data anaylsis and to explore which model would be best fit for the data
+- Data cleaning to prepare the data for accurate analysis - this involved the dropping of unnecessary columns, deciding what to do about missing data, confirming category types are correct for each column
+- Creation of exploratory & explanatory visualizations to explain the data analysis in a clear manner 
+- Preprocessing to prepare the data for analysis through machine learning to prevent data leakage
+- Machine Learning - training models through the creation of a linear regression model and decision tree regressor model, as well as, analyze R^2/RMSE to further explain the data analysis and to explore which model would be best fit for the data
 
 ## Results
 
