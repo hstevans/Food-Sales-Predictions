@@ -17,7 +17,7 @@ Orginal Source: https://datahack.analyticsvidhya.com/contest/practice-problem-bi
 - Data cleaning to prepare the data for accurate analysis
 - Creation of exploratory & explanatory visualizations to explore and explain the data analysis in a clear manner 
 - Preprocessing to prepare the data for analysis through machine learning
-- Machine Learning - training models through the creation of a linear regression model and decision tree regressor model to further explore and explain the data anaylsis
+- Machine Learning - training models through the creation of a linear regression model and decision tree regressor model to further explore and explain the data anaylsis and to explore which model would be best fit for the data
 
 ## Results
 
