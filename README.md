@@ -1,7 +1,7 @@
 # Food Sales Predictions
 ## An analysis of how certain product & outlet properties affect the sales of different food items
 
-Hollyann Stevans: 
+## Author: Hollyann Stevans
 
 ### Business problem:
 
