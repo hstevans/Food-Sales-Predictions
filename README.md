@@ -24,9 +24,6 @@ Source: Coding Dojo Part Time Data Science Program
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-
 #### Item Outlet Sales vs. Item MRP
 ![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Item%20Outlet%20Sales%20vs.%20MRP.png)
 
