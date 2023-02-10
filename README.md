@@ -27,10 +27,10 @@ Source: Coding Dojo Part Time Data Science Program
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
+#### Item Outlet Sales vs. Item MRP
+![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Item%20Outlet%20Sales%20vs.%20MRP.png)
 
-> Sentence about visualization.
+> The scatterplot shows a positive correlation between Item Outlet Sales & Item MRP. As Item MRP increases so does Item Outlet Sales.
 
 #### Visual 2 Title
 
