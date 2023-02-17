@@ -38,10 +38,10 @@ Source: Coding Dojo Part Time Data Science Program
 ## Model
 
 ### Linear Regression Model Evaluation
-![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Item%20Outlet%20Sales%20by%20Outlet%20Type.png)
+![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Linear%20Regression%20Model%20Results.png)
 
 ### Decision Tree Regressor Evaluation
-![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Item%20Outlet%20Sales%20by%20Outlet%20Type.png)
+![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Decision%20Tree%20Regressor%20Results.png)
 
 For this data set, a Linear Regression Model and a Decision Tree Regressor Model were trained/tested.  The Decision Tree Regressor Model is best for analysis of this data. The Decision Tree had a lower RMSE score, indicating that it would not make many bigger mistakes, but instead more smaller mistakes.  The Decision Tree Model still shows high bias though. 
 
