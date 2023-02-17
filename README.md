@@ -33,7 +33,7 @@ Source: Coding Dojo Part Time Data Science Program
 ![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Item%20Outlet%20Sales%20by%20Outlet%20Type.png)
 
 
-> The barplot shows that Supermarket Type 3 has the greatest sales, by far of any of the other outlet types, and Grocery store has the least.  Supermarket Type 3 has about $3,600 in sales while Grocery Store has about $400.  
+> The barplot shows that Supermarket Type 3 has the greatest sales, by far of any of the other outlet types, and Grocery Store has the least.  Supermarket Type 3 has about $3,600 in sales while Grocery Store has about $400.  
 
 ## Model
 
