@@ -43,7 +43,7 @@ Source: Coding Dojo Part Time Data Science Program
 ### Decision Tree Regressor Evaluation
 ![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Decision%20Tree%20Regressor%20Results.png)
 
-For this data set, a Linear Regression Model and a Decision Tree Regressor Model were trained/tested.  The Decision Tree Regressor Model is best for analysis of this data. The Decision Tree had a lower RMSE score, indicating that it would not make many bigger mistakes, but instead more smaller mistakes.  The Decision Tree Model still shows high bias though. 
+For this data set, a Linear Regression Model and a Decision Tree Regressor Model were trained/tested.  The Decision Tree Regressor Model is best for analysis of this data.  The r^2 score of the Decision Tree Model indicates it can explain about 60% of the variation within the data.  The Decision Tree had a lower RMSE score, indicating that it would not make many bigger mistakes, but instead more smaller mistakes.   The Decision Tree Model still shows high bias though. 
 
 
 
