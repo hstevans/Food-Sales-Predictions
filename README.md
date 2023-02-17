@@ -29,24 +29,31 @@ Source: Coding Dojo Part Time Data Science Program
 
 > The scatterplot shows a positive correlation between Item Outlet Sales & Item MRP. As Item MRP increases so does Item Outlet Sales.
 
-#### Visual 2 Title
+#### Item Outlet Sales by Outlet Type
+![Model](https://github.com/hstevans/Food-Sales-Predictions/blob/main/Item%20Outlet%20Sales%20by%20Outlet%20Type.png)
+
+
+> The barplot shows that Supermarket Type 3 has the greatest sales, by far of any of the other outlet types, and Grocery store has the least.  Supermarket Type 3 has about $3,600 in sales while Grocery Store has about $400.  
 
 ## Model
 
-Describe your final model
+For this data set, a Linear Regression Model and a Decision Tree Regressor Model were trained/tested.  The Decision Tree Regressor Model is best for analysis of this data. The Decision Tree had a lower RMSE score, indicating that it would not make many bigger mistakes, but instead more smaller mistakes.  The Decision Tree Model still shows high bias though. 
 
-Report the most important metrics
 
-Refer to the metrics to describe how well the model would solve the business problem
+
+
 
 ## Recommendations:
 
-More of your own text here
+The company should focus on the sales performance at each location type (Outlet_Type) and see if stocking items with higher Item_MRP affects sales at locations, like grocery stores, that have low Item_Outlet_Sales.
+
 
 
 ## Limitations & Next Steps
 
-More of your own text here
+More exploratory and explantory analysis needs to be done to further support the recommendation.  At the very least, I would like to add further analysis in regards to Outlet_Type, Outlet_Size, and Item_Outlet_Sales.
+
+I would also like to dive deeper into other regression models, as well as, tuning their hyperparameters.
 
 
 ### For further information
